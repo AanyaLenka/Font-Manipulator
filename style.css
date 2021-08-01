@@ -1,0 +1,29 @@
+.heading
+{
+font-size:23px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 5px grey;
+font-family:monospace;
+}
+
+.note
+{
+font-size: 15px;
+color:black;
+width: 80%;
+white-space: pre-line;
+height:50px;
+}
+
+.copy_right_footer
+{
+position:fixed;
+color:purple;
+bottom:0;
+width:100%;
+background-color:pink;
+line-height:3;
+text-align: center;
+font-family: cursive;
+}
